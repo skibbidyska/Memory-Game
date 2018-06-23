@@ -1,18 +1,29 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import ImageCard from "./components/ImageCard";
+import images from "./images";
 
 class App extends Component {
+
+  state = {
+    images
+  }
+
+
+
+
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div>
+
+        {this.state.images.map( image => (
+          <ImageCard
+            image={image.image}
+            alt={image.alt}
+          />
+        ))}
+
       </div>
     );
   }
