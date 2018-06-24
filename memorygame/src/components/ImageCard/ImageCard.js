@@ -1,11 +1,14 @@
 import React from "react";
+import "./ImageCard.css";
 
 const ImageCard = props => (
-  <div className="container">
-    <button>
-      <img src={props.image} alt={props.alt} />
-    </button>
+
+  <div className="card" onClick={() => props.gamePlay(props.id)}>
+    <div className="img-container">
+      <img src={props.image} alt={props.alt}/>
+    </div>
   </div>
+
 );
 
 

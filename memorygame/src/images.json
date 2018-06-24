@@ -2,6 +2,49 @@
   {
     "id": 1,
     "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
-    "alt": "Brian from Family Guy holding a martini."
+    "alt": "Brian from Family Guy holding a martini.",
+    "clicks": 0
+  },
+  {
+    "id": 2,
+    "image": "http://media.comicbook.com/2018/02/stewie-family-guy-fox-1085482.jpeg",
+    "alt": "Stewie with a beard.",
+    "clicks": 0
+  },
+  {
+    "id": 3,
+    "image": "http://clipart.toonarific.com/data/media/147/family_guy3.gif",
+    "alt": "Louis holding a mic.",
+    "clicks": 0
+  },
+  {
+    "id": 4,
+    "image": "https://familyguyaddicts.files.wordpress.com/2017/02/image173.jpg?w=224&h=300",
+    "alt": "Chicken looking like Ken.",
+    "clicks": 0
+  },
+  {
+    "id": 5,
+    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
+    "alt": "Brian from Family Guy holding a martini.",
+    "clicks": 0
+  },
+  {
+    "id": 6,
+    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
+    "alt": "Brian from Family Guy holding a martini.",
+    "clicks": 0
+  },
+  {
+    "id": 7,
+    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
+    "alt": "Brian from Family Guy holding a martini.",
+    "clicks": 0
+  },
+  {
+    "id": 8,
+    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
+    "alt": "Brian from Family Guy holding a martini.",
+    "clicks": 0
   }
 ]
