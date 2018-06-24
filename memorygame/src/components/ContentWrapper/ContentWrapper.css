@@ -1,0 +1,9 @@
+.imageWrapper {
+  background: #fff;
+  width: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow:hidden;
+}

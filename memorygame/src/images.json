@@ -8,7 +8,7 @@
   {
     "id": 2,
     "image": "http://media.comicbook.com/2018/02/stewie-family-guy-fox-1085482.jpeg",
-    "alt": "Stewie with a beard.",
+    "alt": "Stewie with a goatee.",
     "clicks": 0
   },
   {
@@ -25,26 +25,50 @@
   },
   {
     "id": 5,
-    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
-    "alt": "Brian from Family Guy holding a martini.",
+    "image": "https://i.ytimg.com/vi/TFW0r1ZINIU/maxresdefault.jpg",
+    "alt": "Peter dressed as Deadpool.",
     "clicks": 0
   },
   {
     "id": 6,
-    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
-    "alt": "Brian from Family Guy holding a martini.",
+    "image": "https://familyguyaddicts.files.wordpress.com/2014/04/peter_hooker-animation-052idlepic4x.png",
+    "alt": "Peter cross-dressing.",
     "clicks": 0
   },
   {
     "id": 7,
-    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
-    "alt": "Brian from Family Guy holding a martini.",
+    "image": "https://www.wikihow.com/images/4/4a/Draw-Stewie-from-Family-Guy-Step-17.jpg",
+    "alt": "Stewie look unimpressed",
     "clicks": 0
   },
   {
     "id": 8,
-    "image": "http://digitalspyuk.cdnds.net/13/48/480x289/gallery_ustv-family-guy-brian.jpg",
-    "alt": "Brian from Family Guy holding a martini.",
+    "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-family-guy-alex-borstein.jpg",
+    "alt": "Louis looking angry while sitting at her piano.",
+    "clicks": 0
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/family-guy-the-quest-for-stuff/images/4/4a/Brian-batman-animation.png/revision/latest?cb=20160811064626",
+    "alt": "Brian dressed as batman",
+    "clicks": 0
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/7/7a/FGuy_DialMegForMurder_0060F.jpg/revision/latest?cb=20100120224702",
+    "alt": "Meg holding a gun",
+    "clicks": 0
+  },
+  {
+    "id": 11,
+    "image": "https://lgbtqnation-assets.s3.amazonaws.com/assets/2016/11/meg-5-500x375.jpg",
+    "alt": "Meg looking surprised?",
+    "clicks": 0
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/villains/images/3/37/Giant_Chicken.jpg/revision/latest?cb=20170507170021",
+    "alt": "Chicken",
     "clicks": 0
   }
 ]

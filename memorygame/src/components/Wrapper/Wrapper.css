@@ -4,8 +4,8 @@
   height: 100%;
   display: flex;
   flex-flow: row wrap;
-  padding:5px;
+  padding: 20px;
   justify-content: space-around;
-  align-items: center;
-  overflow: hidden;
+  align-content: flex-start;
+  overflow: auto;
 }
