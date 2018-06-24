@@ -1,7 +1,7 @@
 {
   "name": "memorygame",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://skibbidyska.github.io/Memory-Game/",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
