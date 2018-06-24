@@ -26,3 +26,7 @@
   padding-right: 1rem;
   font-size: 15px;
 }
+
+.card:hover {
+  box-shadow: 0 10px 12px #999;
+}

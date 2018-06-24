@@ -5,6 +5,7 @@ import ImageCard from "./components/ImageCard";
 import Header from "./components/Header";
 import ContentWrapper from "./components/ContentWrapper";
 import images from "./images";
+import Instructions from "./components/Instructions/Instructions";
 
 class App extends Component {
 
@@ -52,6 +53,7 @@ class App extends Component {
 
       <Wrapper>
         <Header score={this.state.score} highScore={this.state.highScore}></Header>
+        <Instructions/>
         <ContentWrapper>
         {this.state.images.map( image => (
           <ImageCard
